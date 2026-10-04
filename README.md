@@ -1,0 +1,2 @@
+# FavoriteLinks
+リンク集
