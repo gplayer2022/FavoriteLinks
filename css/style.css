@@ -4,6 +4,8 @@ body {
 }
 
 .page-wrapper {
+    width: 900px;
+    margin: 0 auto;
     display: flex;
     min-height: 100vh;
     flex-direction: column;
